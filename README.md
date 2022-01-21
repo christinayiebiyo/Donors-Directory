@@ -1,2 +1,2 @@
-# DonorApp
- A React JS CRUD app using ASP.NET Core Web API
+# Blood Donors directory 
+A React JS CRUD operations with ASP.NET Core Web API and SQL server 
